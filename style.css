@@ -15,3 +15,8 @@ p{
 #hd1{
     color:blue;
 }
+
+li{
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
